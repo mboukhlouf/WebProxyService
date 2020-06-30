@@ -3,6 +3,14 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>WebProxyServiceNS</RootNamespace>
+    <Description>A class to solve the issue of not being able to change Proxy after HttpClient has started in .NET.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/M-Boukhlouf/WebProxyService/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/M-Boukhlouf/WebProxyService/</RepositoryUrl>
+    <PackageTags>proxy; webproxy;</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>M-Boukhlouf</Authors>
+    <Company>M-Boukhlouf</Company>
   </PropertyGroup>
 
 </Project>
